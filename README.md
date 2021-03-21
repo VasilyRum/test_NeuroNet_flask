@@ -23,7 +23,7 @@ $ (env) pip install -r requirements.txt
 
 5. Finally start the web server:
 ```
-$ (env) python app.py
+$ (env) python test.py
 ```
 
 To start set in address line http://127.0.0.1:5000/calc
