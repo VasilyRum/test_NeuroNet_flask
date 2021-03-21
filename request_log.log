@@ -86,3 +86,16 @@ INFO:root:Арзамас, ул. Мира, д 19Entered address is 480.714km away from MKAD
 INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 21:13:55] "[37mPOST /calc HTTP/1.1[0m" 200 -
 INFO:root:АрзамасEntered address is 474.19km away from MKAD
 INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:23:50] "[37mPOST /calc HTTP/1.1[0m" 200 -
+INFO:root:МоскваEntered address is in MKAD-area
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:56:20] "[37mPOST /calc HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:56:23] "[37mGET /calc HTTP/1.1[0m" 200 -
+INFO:root:Арзамас, ул. Мира, д 19Entered address is 480.714km away from MKAD
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:56:25] "[37mPOST /calc HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:59:05] "[37mGET /calc HTTP/1.1[0m" 200 -
+INFO:root:с. ЧернухаEntered address is 615.332km away from MKAD
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:59:09] "[37mPOST /calc HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:59:10] "[37mGET /calc HTTP/1.1[0m" 200 -
+INFO:root:Арзамас, ул. Мира, д 19Entered address is 480.714km away from MKAD
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:59:13] "[37mPOST /calc HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Mar/2021 22:59:15] "[37mGET /calc HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Blace\\PycharmProjects\\test_NeuroNet_flask\\blueprint.py', reloading
