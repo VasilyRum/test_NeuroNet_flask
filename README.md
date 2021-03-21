@@ -26,4 +26,4 @@ $ (env) pip install -r requirements.txt
 $ (env) python test.py
 ```
 
-To start set in address line http://127.0.0.1:5000/calc
+To start: set in address line http://127.0.0.1:5000/calc
