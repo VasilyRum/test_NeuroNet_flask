@@ -17,7 +17,7 @@ def calc():
         address = request.form['address']
         output = make_request(address)
         logging.basicConfig(filename='request_log.log', level=logging.INFO)
-        logging.info('Entered address --->' + address + ' ' + output)
+        logging.info('Entered address --->' + address)
         logging.info('Received answer' + output)
         return render_template('result.html', output=output)
     return render_template('main.html')
